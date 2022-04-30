@@ -1,3 +1,5 @@
+![Banner](https://user-images.githubusercontent.com/86350286/166100529-d82e2b38-1cf4-4641-b63f-51edd884d9b7.jpg)
+
 <h2 align="center">Hey there, fellow developer! 👋</h2>
 
 I'm Estefanía (or Stephanie, if it's easier for you). My day-to-day at work consist of building a Sass platform targeted to small and medium-sized industrial enterprises. In the meantime I like to contribute to my team and the community by developing useful tools, and writing high quality tutorials.
