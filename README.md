@@ -5,7 +5,7 @@ I'm Estefanía (or Stephanie, if it's easier for you). My day-to-day at work con
 - ☕️ I'm currently working on:
   - My personal blog (🤩).
   - A Github Action for LastFM stats.
-  - A React UI component library for speeding the development of new projects.
+  - A React UI component library for speeding up the development of new projects.
 
 - 📚 I'm currently reading the source code of:
   - [Hads](https://github.com/sinedied/hads)
