@@ -2,7 +2,7 @@
 
 <h2 align="center">Hey there, fellow developer! 👋</h2>
 
-I'm Estefanía (or Stephanie, if it's easier for you). My day-to-day at work consist of building a Sass platform targeted to small and medium-sized industrial enterprises. In the meantime I like to work on some fun side projects. 
+<!--I'm Estefanía (or Stephanie, if it's easier for you). My day-to-day at work consist of building a Sass platform targeted to small and medium-sized industrial enterprises. In the meantime I like to work on some fun side projects. 
 
 - ☕️ I'm currently working on:
   - My personal blog (🤩).
@@ -18,7 +18,7 @@ I'm Estefanía (or Stephanie, if it's easier for you). My day-to-day at work con
   
   * In construction! 💻.
 
-</details>
+</details>-->
 
 <!-- ✍🏻 **Latest blog posts** -->
 
